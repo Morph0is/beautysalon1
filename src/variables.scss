@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+
+//mobile break-point
+$tabletBreakpoint: 900px;
+$mobileBreakpoint: 460px;
+
+//fonts
+$nunito-sans: 'Nunito', sans-serif;
+$noto-serif: 'Noto Serif', serif;
+$regular-text-size: 14pt; //size for regular text.
+
+//colors
+$font-color-grey-title: #808080;
+$font-color-dark-grey: #757575;
+$font-color-light-grey: #A4A4A4;
+$font-color-white: #FFFFFF;
+$font-color-milky-white: #F6F6F6;
+$bg-color-black: #010D12;
+$bg-color-yellow: #FFCF08;
+$bg_color_sections: rgba(155, 189, 198, 0.42);
+$bg1: #030001;
+$button-hover-color: #010D12;
+$font-color: #F6F6F6;
+$main-font-color: '#522a28';
+$card-background-color:#F6F6F6;
+$homepage-background-color: rgba(217, 198, 166, 0.53);
+
+//imported items
+$bg-image: url("components/page-components/homepage/Hero/assets/beauty-salon-hero.jpg"); //Hero Component
+$rating-image: url("components/page-components/homepage/Hero/assets/google-rating.svg"); //Hero Component
+$background-image-mobile-nav: url("components/common-components/NavBar/assets/beauty-salon-logo.png"); //Navbar Component
+$background-image-5: url('./bg-images/peach-fuzz1.jpg');
+$background-image-8: url('./bg-images/peach-fuzz4.jpg');
+$background-split-1: url('./bg-images/splitet-peach-fuzz1-modified.jpg');
+$background-split-2: url('./bg-images/splitet-peach-fuzz2-modified.jpg');

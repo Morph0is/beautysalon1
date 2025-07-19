@@ -1,0 +1,42 @@
+@import '../../../../variables';
+
+.image-container {
+  margin-top: 0;
+  height: 40em;
+}
+
+.home-page-image {
+  height: 40em;
+  object-fit: cover;
+  background-attachment: fixed;
+  max-width: 80em;
+  @media(max-width: $tabletBreakpoint) {
+    max-height: 50vh;
+  }
+}
+
+.my-customer-title {
+  word-break: break-word !important;
+  font-family: $noto-serif;
+  z-index: 1;
+  color: $font-color-white;
+  margin-top: auto;
+  font-size: 52pt;
+  margin-left: 2em;
+
+  @media (max-width: $tabletBreakpoint){
+    margin-left: 0.5em;
+    font-size: 40pt;
+  }
+}
+
+.customer-title-container {
+  display: flex;
+  height: 40em;
+  justify-content: left !important;
+  align-content: center;
+
+  @media (max-width: $tabletBreakpoint) {
+    height: 50vh;
+  }
+}

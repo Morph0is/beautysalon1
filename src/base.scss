@@ -1,0 +1,78 @@
+@import "./variables";
+
+//page-layout
+.page-layout-container {
+  max-width: 100vw;
+  margin-top: 5em;
+  background-image: $background-image-8;
+  background-size: cover;
+  position: relative;
+  @media (max-width: $tabletBreakpoint) {
+    margin-top: 3em;
+
+  }
+}
+
+.page-layout-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.09);
+  //z-index: 1;
+}
+
+
+//styles
+.title1 {
+  font-family: #{$nunito-sans} !important;
+  color: $font-color-dark-grey;
+  font-size: 18pt !important;
+  margin-bottom: 0.5em;
+}
+
+//styles
+.title2 {
+  font-family: #{$nunito-sans} !important;
+  color: #522a28;
+  font-size: 22pt !important;
+
+  margin-right: 1em !important;
+  font-weight: 700 !important;
+
+  @media (max-width: $tabletBreakpoint) {
+    margin: 0.5em !important;
+  }
+}
+
+.subtitle1 {
+  font-family: #{$nunito-sans} !important;
+  color: #522a28;
+  font-size: 18pt !important;
+  font-weight: 700;
+
+  @media (max-width: $tabletBreakpoint) {
+    margin: 0.5em !important;
+  }
+}
+
+//title for content author
+.author-name-text-style {
+  margin-top: -3em !important;
+  margin-left: 2.5em !important;
+  font-family: $nunito-sans !important;
+  font-style: italic;
+  color: $font-color-grey-title;
+  @media (max-width: $tabletBreakpoint) {
+    margin-top: -2em !important;
+    margin-left: 1em !important;
+  }
+}
+
+@media screen and (max-width: $mobileBreakpoint) {
+  .title3 {
+    font-size: 40pt !important;
+  }
+}

@@ -1,0 +1,10 @@
+@import '../../../variables';
+
+.custom-mui-button {
+  height: 50px;
+
+  &:hover {
+    background-color: $button-hover-color !important;
+    color: white;
+  }
+}

@@ -1,0 +1,41 @@
+@import '../../../../variables';
+
+
+.slogan {
+  font-family: $nunito-sans;
+}
+
+.hero-div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  top: 0;
+  background-image: $bg-image;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 92.7dvh ;
+  margin-bottom: 2em;
+  position: relative;
+  clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+
+
+
+  @media (max-width: $tabletBreakpoint) {
+    width: 100%;
+  }
+}
+
+.slogan-div {
+  font-family: $nunito-sans;
+  font-weight: 200;
+  width: 10em;
+  font-size: 22pt;
+  color: $font-color-milky-white;
+  margin-right: 15%;
+  padding: 1em;
+}
+
+.rating-image {
+  width: 100%;
+}

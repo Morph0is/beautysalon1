@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "home": "Home",
+    "treatments": "Behandlungen",
+    "prices": "Preise",
+    "info": "Info",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "slogan": "\"Schönheit liegt in der Stille des Moments, ein unausgesprochenes Gedicht der Natur.\""
+  },
+  "about-me": {
+    "poem": "“Darin kann man nicht nur alle Emotionen sehen, sondern auch was Sie und wie Sie leben. Das Gesicht sind Sie, mit all Ihren Gedanken, Gefühlen und all der Schönheit, welche Sie täglich im Spiegel sehen. Sie sind von Grund auf bereits schön, denn Schönheit liegt im Auge des Betrachters. Wie man jedoch damit umgeht, liegt an einem selbst. Was ich für Sie tun kann ist, dass ich Ihre Schönheit hervorhebe. Gerne biete ich Ihnen in meinem Kosmetikstudio, dazu meiner klassischen Behandlungen an.”",
+    "author": "Hasti",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "mission": "Meine Philosophie"
+  },
+  "customer-review": [
+    {
+      "name": "Rose",
+      "text": "“Hasti und ihr Team sind sehr erfahren und professionell, dabei bleiben sie immer cool und gelassen. Sie erfüllen immer meine Wünsche (auch meine Extrawünsche ;) ) .Ihr Salon ist gut (auch zu Fuß) erreichbar, modern, gut ausgestattet und es herrscht dort eine sehr angenehme familiäre Atmosphäre. Sie geben mir immer (auch) spontane Termine, obwohl sie sehr gut ausgelastet sind. Das sind für mich genügend gute Gründe Hasty's Beauty Salon wärmstens weiter zu empfehlen. Weiter so Mädels und vielen dank  :)”",
+      "stars": "5"
+    },
+    {
+      "name": "Corinne",
+      "text": "“Super freindlich, schnell und leistet immer gute Ergebnisse.”",
+      "stars": "5"
+    },
+    {
+      "name": "Danijela",
+      "text": "Ich komme schon seit Jahren in den Beauty Salon Hasty. Ich liebe es hier verwöhnt zu werden. Wenn man ins Studio eintritt, wird man sehr herzlich empfangen und freundlich bedient. Das Studio ist sehr sauber und gepflegt. Die Atmosphäre ist Top, richtig heimelig, bequem, übersichtlich , Musik ich liebe es, alle Mitarbeiter sind freundlich, lieb, aufgestellt. Die Salonbesitzerin Hasty ein richtiger Goldschatz und entgegenkommend. Die Location ist ganz einfach zu erreichen und es hat Kundenparkplätze. Ich war zum ersten mal da und habe nur meine Augenbrauen zupfen lassen, weil ich so zufriden bin buchte dan ihren Waxing-Service. Die Prozedur war sehr angenehm und fast schmerzfrei. Und weil ich so überzeugt war buchte ich auch die Laser Therapien für dauerhafte haarentfernung der lässtigen haare dort wo sie nicht hingehörten. Preise auch Top. Also Ladies und Gentlemen sofort ein Termin machen sonst verpasst ihr was!",
+      "stars": "5"
+    }
+  ],
+  "slider": {
+    "title": "Unser Salon"
+  },
+  "info": {
+    "title": "Info",
+    "subtitle1": "Verspätungen",
+    "body1": "Wir bitten Sie pünktlich zu sein. Falls Sie zu spät sind, werden wir alles versuchen, Ihnen trotzdem noch eine optimale Behandlung zu bieten. Da wir andere Reservierungen nicht verändern können, bitte wir um Verständnis, dass wir Ihren Behandlungsablauf verkürzen müssen.\nEs besteht kein Anspruch auf Ersatz.",
+    "subtitle2": "Stornobedingungen",
+    "body2": "Falls Sie verhindert sind, kontaktieren Sie uns 48 Stunden vor Ihren Termin, Sie ersparen Sich die Berechnung der Behandlung und geben einer anderen Kundin die Gelegenheit sich anzumelden. Ohne entsprechende Mitteilung werden Ihnen die Kosten verrechnet.\n\nVielen Dank für Ihr Verständnis.\n\nZu Ihrer Information finden Sie hier das Merkblatt der Stiftung für Konsumentenschutz SKS.",
+    "leaflet-title": "Merkblatt der Stiftung für Konsumentenschutz SKS",
+    "leaflet-date": "Bern, September 2013",
+    "leaflet-subtitle1": "Termin bei der Kosmetikerin verpasst. Muss ich trotzdem\nbezahlen? ",
+    "leaflet-body1": "Sie haben seit Wochen einen Termin bei der Kosmetikerin vereinbart.\nAusgerechnet an diesem Tag geht es im Büro hektisch zu und her. Als\nSie müde zu Hause ankommen, kommt Ihnen plötzlich der verpasste\nTermin bei der Kosmetikerin in den Sinn. Anstatt den wohlverdienten\nFeierabend zu geniessen, ärgern Sie sich über sich selber. Nicht genug:\nAm nächsten Tag teilt Ihnen die Kosmetikerin mit, dass sie Ihnen die\nverpasste Stunde in Rechnung stellen muss. ",
+    "leaflet-subtitle2": "Müssen Sie diese Kosten übernehmen? ",
+    "leaflet-title2": "Ja. Sie haben mit Ihrer Kosmetikerin einen Vertrag für eine Behandlung\nabgeschlossen und ihn nicht eingehalten.\nDie Kosmetikerin hätte in dieser Zeit eine andere Kundin behandeln\nkönnen. Daher kann sie einen Schadenersatz verlangen.\nDie Kosmetikerin ist allerdings verpflichtet, sich um eine andere Kundin\nzu bemühen; was meistens kurzfristig nicht ganz einfach ist.\nAuf dem Kärtchen der Kosmetikerin war zudem noch der folgende\nVermerk angebracht: „Im Verhinderungsfall bitte 48 Stunden im Voraus\nmelden!“ Bei rechtzeitiger Abmeldung müssen Sie also keinen\nSchadenersatz zahlen. "
+  },
+  "footer": {
+    "copyright": "© 2023 Beauty Salon Hasti",
+    "imprint": "Impressum",
+    "location": "Zürcherstrasse 101\n8406 Winterthur",
+    "phone-number": "052 558 89 84",
+    "email": "contact@beautysalon-hasti.ch"
+  },
+  "imprint": {
+    "title": "Impressum"
+  }
+}

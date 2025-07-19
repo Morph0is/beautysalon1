@@ -1,0 +1,219 @@
+[
+  {
+    "categoryId": 1,
+    "category": "Diverse Behandlungen",
+    "items": [
+      {
+        "name": "PRP Haare (pro Sitzung)",
+        "price": "CHF 250.-",
+        "discount": "Im 3er Abo für 700.-"
+      },
+      {
+        "name": "PRP Haut (pro Sitzung)",
+        "price": "CHF 250.-",
+        "discount": "Im 3er Abo für 700.-"
+      },
+      {
+        "name": "Microneedling (pro Behandlung)",
+        "price": "CHF 220.-",
+        "discount": "Im 6er Abo 10% Rabatt"
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "category": "Make-Up",
+    "items": [
+      {
+        "name": "Tages Make-Up",
+        "price": "CHF 80.- bis 100.-"
+      },
+      {
+        "name": "Abend Make-Up",
+        "price": "CHF 100.- bis 120.-"
+      },
+      {
+        "name": "Braut Make-Up inkl. Probe",
+        "price": "CHF 480.-"
+      },
+      {
+        "name": "Teenie Make-Up",
+        "price": "ab CHF 50.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "category": "Gesichtsbehandlung",
+    "items": [
+      {
+        "name": "Klassisch",
+        "price": "ab CHF 80.-"
+      },
+      {
+        "name": "Hydrafacial",
+        "price": "CHF 190.-",
+        "discount": "Im 3er Abo für 520.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 4,
+    "category": "Hautbehandlung mit Laser",
+    "items": [
+      {
+        "name": "Hautverjüngung",
+        "price": "ab CHF 80.-"
+      },
+      {
+        "name": "Pigmentbehandlung",
+        "price": "ab CHF 80.-"
+      },
+      {
+        "name": "Aknebehandlung",
+        "price": "ab CHF 80.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 5,
+    "category": "SHR dauerhafte Haarentfernung",
+    "items": [
+      {
+        "name": "Ganzes Gesicht",
+        "price": "CHF 80.-"
+      },
+      {
+        "name": "Oberlippe und Kinn",
+        "price": "CHF 50.-"
+      },
+      {
+        "name": "Achselhöhle",
+        "price": "CHF 80.-"
+      },
+      {
+        "name": "Intim/Bikini",
+        "price": "CHF 150.-"
+      },
+      {
+        "name": "Achselhöhle/Intim",
+        "price": "CHF 200.-"
+      },
+      {
+        "name": "Ganze Arme",
+        "price": "CHF 130.-"
+      },
+      {
+        "name": "Halbe Arme",
+        "price": "CHF 70.-"
+      },
+      {
+        "name": "Ganze Beine",
+        "price": "CHF 350.-"
+      },
+      {
+        "name": "Oberschenkel",
+        "price": "CHF 200.-"
+      },
+      {
+        "name": "Unterschenkel",
+        "price": "CHF 180.-"
+      },
+      {
+        "name": "Rücken & Schultern",
+        "price": "CHF 110.- bis 150.-"
+      },
+      {
+        "name": "Brust & Bauch",
+        "price": "CHF 110.- bis 150.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 6,
+    "category": "Haarentfernung – Faden",
+    "items": [
+      {
+        "name": "Gesicht",
+        "price": "CHF 30.-"
+      },
+      {
+        "name": "Augenbrauen",
+        "price": "CHF 20.-"
+      },
+      {
+        "name": "Gesicht und Augenbrauen",
+        "price": "CHF 40.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 7,
+    "category": "Waxing",
+    "items": [
+      {
+        "name": "Ganze Arme",
+        "price": "CHF 50.-"
+      },
+      {
+        "name": "Halbe Arme",
+        "price": "CHF 40.-"
+      },
+      {
+        "name": "Achselhöhlen",
+        "price": "CHF 25.-"
+      },
+      {
+        "name": "Ganze Beine",
+        "price": "CHF 105.-"
+      },
+      {
+        "name": "Halbe Beine",
+        "price": "CHF 70.-"
+      },
+      {
+        "name": "Bikinizone",
+        "price": "CHF 35.-"
+      },
+      {
+        "name": "Intimzone",
+        "price": "CHF 55.-"
+      },
+      {
+        "name": "Rücken/Bauch",
+        "price": "ab CHF 50.-"
+      },
+      {
+        "name": "Achsel, Bikini, Beine",
+        "price": "CHF 150.-"
+      },
+      {
+        "name": "Achsel, Intim, Beine",
+        "price": "CHF 170.-"
+      }
+    ]
+  },
+  {
+    "categoryId": 8,
+    "category": "Weitere Behandlungen",
+    "items": [
+      {
+        "name": "Augenbrauen Färben",
+        "price": "CHF 15.-"
+      },
+      {
+        "name": "Wimpern Färben",
+        "price": "CHF 25.-"
+      },
+      {
+        "name": "Augenbrauen Lifting",
+        "price": "CHF 90.-"
+      },
+      {
+        "name": "Wimpern Lifting",
+        "price": "CHF 90.-"
+      }
+    ]
+  }
+]
+

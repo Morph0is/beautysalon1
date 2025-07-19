@@ -1,0 +1,8 @@
+@import '../../../../variables';
+
+.treatments-container{
+  max-width: 80em;
+  @media (max-width: $tabletBreakpoint) {
+    width: 100vw;
+  }
+}

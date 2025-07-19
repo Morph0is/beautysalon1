@@ -1,0 +1,105 @@
+@import '../../../../variables';
+
+.review-card {
+  background-color: $homepage-background-color !important;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  max-width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0 0 50px 50px !important;
+  box-shadow: 13px 9px 15px 6px rgba(0, 0, 0, 0.05) !important;
+
+  @media (max-width: 1200px) {
+    flex-direction: column;
+  }
+}
+
+.customer-card {
+  background-color: $card-background-color !important;
+  border-radius: 25px !important;
+  padding: 1em;
+  margin-left: 2em ;
+  @media(max-width: 1200px) {
+    width: 90wv !important;
+    margin-left: 0;
+  }
+}
+
+.customer-section {
+  padding-left: 2em;
+  width: 50%;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.5;
+  font-size: 14pt;
+  margin-bottom: 2em;
+  margin-top: 2em;
+
+  @media (max-width: 1200px) {
+    width: 90vw;
+    padding:0 ;
+    margin-left: 1em;
+    margin-right: 1em;
+
+  }
+}
+
+
+.customer-text {
+  font-size: 10pt;
+  font-family: $nunito-sans;
+}
+
+.confirmation-text {
+  font-family: $nunito-sans;
+  font-size: 16pt;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 85%;
+}
+
+.logo-butterfly {
+  margin: 2em;
+  border-radius: 16px;
+  background-color: #dbc9ac;
+  max-height: 20em;
+  width: auto;
+
+  @media (max-width: $tabletBreakpoint) {
+    padding: 0;
+    margin: 1.5em;
+  }
+}
+
+.beauty-logo-font {
+  @media(max-width: 1200px) {
+    max-width: 70vw;
+    margin: auto;
+  }
+}
+
+.customer-image-container {
+  background-color: $card-background-color !important;
+  width: 50%;
+  margin: 2em;
+  border-radius: 26px !important;
+  @media(max-width: 1200px) {
+    width: 90vw;
+  }
+}
+
+.author-name-text {
+  font-family: $nunito-sans !important;
+  font-style: italic;
+  color: $font-color-grey-title;
+  @media (max-width: $tabletBreakpoint) {
+  }
+}
