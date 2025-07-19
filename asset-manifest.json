@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/beautysalon/static/css/main.8a68ac9f.css",
+    "main.js": "/beautysalon/static/js/main.ee916f22.js",
+    "static/js/453.54292a4b.chunk.js": "/beautysalon/static/js/453.54292a4b.chunk.js",
+    "static/media/peach-fuzz4.jpg": "/beautysalon/static/media/peach-fuzz4.07d828c19560675ecf22.jpg",
+    "static/media/DSC00213.JPG": "/beautysalon/static/media/DSC00213.0fc73cc2c6b5ae9c6eba.JPG",
+    "static/media/DSC00212.JPG": "/beautysalon/static/media/DSC00212.c2891b32f828c887e07c.JPG",
+    "static/media/DSC00257.JPG": "/beautysalon/static/media/DSC00257.8c6356629d9409c325ee.JPG",
+    "static/media/beauty-salon-logo.png": "/beautysalon/static/media/beauty-salon-logo.bd5411b3b2a7cbfd73cf.png",
+    "static/media/DSC00245.JPG": "/beautysalon/static/media/DSC00245.24d6465bdea03c893def.JPG",
+    "static/media/DSC00237.JPG": "/beautysalon/static/media/DSC00237.2b592ce1770ed56f7752.JPG",
+    "static/media/DSC00234.JPG": "/beautysalon/static/media/DSC00234.23fbf018344aedf44b51.JPG",
+    "static/media/DSC00228.JPG": "/beautysalon/static/media/DSC00228.79015de7f6078b83aa0a.JPG",
+    "static/media/profileImage.jpg": "/beautysalon/static/media/profileImage.1b6785b828c498b05cb9.jpg",
+    "static/media/beauty-salon-hero.jpg": "/beautysalon/static/media/beauty-salon-hero.9ebd16650ed09881cc12.jpg",
+    "static/media/DSC00235.JPG": "/beautysalon/static/media/DSC00235.5364cb89f931086df642.JPG",
+    "static/media/hasti-homepage.jpg": "/beautysalon/static/media/hasti-homepage.dcad7a6ec56c78cdae28.jpg",
+    "index.html": "/beautysalon/index.html",
+    "static/media/getFetch.cjs": "/beautysalon/static/media/getFetch.7a7a1c81840c96d5a3ea.cjs",
+    "main.8a68ac9f.css.map": "/beautysalon/static/css/main.8a68ac9f.css.map",
+    "main.ee916f22.js.map": "/beautysalon/static/js/main.ee916f22.js.map",
+    "453.54292a4b.chunk.js.map": "/beautysalon/static/js/453.54292a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a68ac9f.css",
+    "static/js/main.ee916f22.js"
+  ]
+}
